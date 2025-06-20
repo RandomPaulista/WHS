@@ -1,3 +1,2 @@
 # WHS
-A repository for wars and diplomacy in WHS
-Website!!!
+A repository for wars and diplomacy in WHS (website soon!!!)
